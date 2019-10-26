@@ -10,7 +10,7 @@ How to use it in Linux (Fedora 16, Ubuntu - Tested)
 ==================================================
 * Run the fedora_install.sh / ubuntu_install.sh file with respect to your operating system from terminal like this
 
-
+change
 		sudo sh fedora_install.sh
 
 		sudo sh ubuntu_install.sh
